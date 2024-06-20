@@ -5,14 +5,3 @@ What is the best recipe & nutrition? View the recipes from [edamam´s API](https
 ### Design
 
 ![recipe](src/recipe.png)
-
-## `Tech Stack`
-
-- API
-- React
-- React Hooks
-- CSS
-- CSS module
-- Git Workflow
-- npm
-- Vercel
